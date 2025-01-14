@@ -45,11 +45,11 @@ Acesse o site oficial: **[https://bioolegar1.github.io/AppCalcularPlastico/](htt
 
 Tem dúvidas ou sugestões? Entre em contato conosco:
 
-- **Email:** suporte@calcpackpro.com
-- **Telefone:** +55 11 99999-9999
+- **Email:** bioolegar@gamil.com
+- **Telefone:** +55 62 98289-2166
 
 ---
 
 ### Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+Todos os Direitos reservados BioOlegari 2025.
